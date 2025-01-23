@@ -589,7 +589,6 @@ module openAi 'br/public:avm/res/cognitive-services/account:0.7.2' = if (isAzure
     location: openAiResourceGroupLocation
     tags: tags
     kind: 'OpenAI'
-    restore: true
     
     customSubDomainName: !empty(openAiServiceName)
       ? openAiServiceName
