@@ -21,7 +21,7 @@
       "value": "${AZURE_OPENAI_RESOURCE_GROUP}"
     },
     "openAiSkuName": {
-      "value": "F0"
+      "value": "S0"
     },
     "computerVisionServiceName": {
       "value": "${AZURE_COMPUTER_VISION_SERVICE}"
