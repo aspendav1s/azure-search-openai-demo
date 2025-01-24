@@ -85,7 +85,7 @@ var appServiceProperties = {
 
 resource appService 'Microsoft.Web/sites@2022-03-01' = {
   name: name
-  location: 'westus'
+  location: 'australiaeast'
   tags: tags
   kind: kind
   properties: appServiceProperties
